@@ -22,6 +22,5 @@ Instrucciones:
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 
 Juan David Zamorano Zapata
-Juan Pablo Cardona Cardona
-Esteban Arenas Gómez
+Juan Andrés Ruiz Valencia
 
