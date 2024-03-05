@@ -22,6 +22,7 @@ Instrucciones:
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 
 Juan David Zamorano Zapata
+Juan Camilo Vargas Fernandez
 Milton David Rendón Cano
 Esteban Arenas Gómez
 Jesús David Mosquera
