@@ -22,6 +22,13 @@ Instrucciones:
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 
 Juan David Zamorano Zapata
+<<<<<<< HEAD
 Valetnina Cano Jaramillo
 
+=======
+Juan Pablo cardona cardona
+Esteban Arenas gómez
+Ismael Monsalve
+Juan Andrés Ruiz Valencia
+>>>>>>> 9d362903d95212a546142f2d0c109f993795ea59
 
