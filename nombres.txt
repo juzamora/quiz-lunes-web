@@ -22,7 +22,8 @@ Instrucciones:
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 
 Juan David Zamorano Zapata
-
+Milton David Rendón Cano
+Esteban Arenas Gómez
 Jesús David Mosquera
 Juan Pablo cardona cardona
 Esteban Arenas gómez
