@@ -22,6 +22,7 @@ Instrucciones:
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 
 Juan David Zamorano Zapata
+Valetnina Cano Jaramillo
 Yoimar Alexis Moreno Gutierrez
 Esteban Arenas Gomez (Correccion)
 Eimy Garcia Barrera
