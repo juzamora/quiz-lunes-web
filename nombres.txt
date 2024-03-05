@@ -23,10 +23,8 @@ Instrucciones:
 
 Juan David Zamorano Zapata
 Esteban Arenas Gómez
-<<<<<<< HEAD
 María Fernanda Valencia Botello
-=======
+Juan Pablo cardona cardona
+Esteban Arenas gómez
 Ismael Monsalve
 Juan Andrés Ruiz Valencia
-
->>>>>>> 53888a3b33368490c96d30b145fa8de6dd30bd3c
