@@ -28,10 +28,5 @@ Juan Pablo cardona cardona
 Esteban Arenas gómez
 Ismael Monsalve
 Juan Andrés Ruiz Valencia
-<<<<<<< HEAD
-Juan Pablo Cardona Cardona
-Esteban Arenas Gómez
 Stiven Alejandro Guirales Bolivar
-=======
 Nicolas Hoyos Giraldo
->>>>>>> 2d7d1c4a62d6637ee35307e80a4361e80de4117b
