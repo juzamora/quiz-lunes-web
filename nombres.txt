@@ -22,10 +22,5 @@ Instrucciones:
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 
 Juan David Zamorano Zapata
-
 Jesús David Mosquera
-Juan Pablo cardona cardona
-Esteban Arenas gómez
-Ismael Monsalve
-Juan Andrés Ruiz Valencia
-Nicolas Hoyos Giraldo
+
