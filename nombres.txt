@@ -23,7 +23,9 @@ Instrucciones:
 
 Juan David Zamorano Zapata
 Esteban Arenas Gómez
+
 Valentina Arias Acevedo
+María Fernanda Valencia Botello
 Juan Camilo Vargas Fernandez
 Milton David Rendón Cano
 Esteban Arenas Gómez
@@ -32,4 +34,5 @@ Juan Pablo cardona cardona
 Esteban Arenas gómez
 Ismael Monsalve
 Juan Andrés Ruiz Valencia
+Stiven Alejandro Guirales Bolivar
 Nicolas Hoyos Giraldo
