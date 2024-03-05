@@ -22,13 +22,25 @@ Instrucciones:
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 
 Juan David Zamorano Zapata
-<<<<<<< HEAD
 Valetnina Cano Jaramillo
-
-=======
+Yoimar Alexis Moreno Gutierrez
+Esteban Arenas Gomez (Correccion)
+Eimy Garcia Barrera
+Juan Pablo Cardona Cardona
+Esteban Arenas Gómez
+Antonio Patiño Montoya
+Manuela Cabezas Botero
+Valentina Arias Acevedo
+María Fernanda Valencia Botello
+Juan Camilo Vargas Fernandez
+Milton David Rendón Cano
+Esteban Arenas Gómez
+Jesús David Mosquera
 Juan Pablo cardona cardona
 Esteban Arenas gómez
 Ismael Monsalve
 Juan Andrés Ruiz Valencia
->>>>>>> 9d362903d95212a546142f2d0c109f993795ea59
-
+Maria camila Mendez
+Stiven Alejandro Guirales Bolivar
+Nicolas Hoyos Giraldo
+Natalia Velez Gutierrez
