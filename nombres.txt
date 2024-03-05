@@ -22,6 +22,8 @@ Instrucciones:
    ------------ INSERTEN SUS NOMBRES EN FORMA DE LISTA ------------
 
 Juan David Zamorano Zapata
+Esteban Arenas Gómez
+María Fernanda Valencia Botello
 Esteban Arenas Gomez (Correccion)
 Juan Camilo Vargas Fernandez
 Milton David Rendón Cano
