@@ -16,4 +16,10 @@ Lea muy bien las instrucciones del quiz
 
  --------------- NOMBRES ----------------
  Juan David Zamorano 
+<<<<<<< HEAD
  Mateo Chaverra Ossa
+=======
+ María José Ocampo
+ Andres Martinez Bustamante
+ Julián Cardona Castrillón
+>>>>>>> 0236db75d8c0c9c7056fc72ceb78a01920df4a15
