@@ -16,5 +16,13 @@ Lea muy bien las instrucciones del quiz
 
  --------------- NOMBRES ----------------
  Juan David Zamorano 
+<<<<<<< HEAD
  Andres Martinez Bustamante
  Steven Ceballos Muñoz
+=======
+ María José Ocampo
+ Andres Martinez Bustamante
+ Edgar Eduardo Agudelo
+ Julián Cardona Castrillón
+ Jairo Alberto Mejía Ramírez
+>>>>>>> 1723388fbc694cacba5ab713a6e762546247c4f1
