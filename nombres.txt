@@ -11,4 +11,8 @@ Lea muy bien las instrucciones del quiz
   * Tenga presente en este proceso de no eliminar los nombres de compañeros.
 
 6.Una vez resuelva los conflictos puede crear el pull request cuando tengo el pullrequest listo me llama para calificar su resultado.
- 
+
+
+
+ --------------- NOMBRES ----------------
+ Juan David Zamorano 
