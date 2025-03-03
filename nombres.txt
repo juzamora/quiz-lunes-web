@@ -1,0 +1,14 @@
+INSTRUCCIONES QUIZ DE GIT - LUNES 6PM - 9PM
+
+Lea muy bien las instrucciones del quiz
+
+1. Clonarse el repositorio en su maquina
+2. Crearse una rama como este nombre de ejemplo -> feature/nombre_alumno
+3. Pasarse a la rama que acaba de Crear - feature/nombre_alumno
+4. Una vez se encuentre en la rama, debe agregar su nombre en el archivo - nombres.txt
+    * Tenga presente que no debe eliminar ningun nombre en caso de hacerlo se le rebajará la nota
+5. Sincronize los cambios desde su rama feature/nombre_alumno con la rama main. En caso de tener conflictos resolverlos. Si no desea hacer esto puede subir los cambios a github desde su rama - feature/nombre_alumno y resolver los conflictos que tenga.
+  * Tenga presente en este proceso de no eliminar los nombres de compañeros.
+
+6.Una vez resuelva los conflictos puede crear el pull request cuando tengo el pullrequest listo me llama para calificar su resultado.
+ 
